@@ -11,5 +11,6 @@ public static void main(String[] args) {
 	a.saving();
 	a.fixed();
 	a.deposit();
+	a.loan();
 }
 }
