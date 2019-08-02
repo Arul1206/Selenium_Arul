@@ -13,4 +13,9 @@ public void deposit() {
 	// TODO Auto-generated method stub
 System.out.println("3%");
 }
+public void loan()
+{
+	System.out.println("11%");
 }
+}
+
